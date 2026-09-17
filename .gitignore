@@ -224,5 +224,5 @@ __pycache__/
 .env
 .DS_Store
 
-data/raw/*
-data/processed/*
+data/raw/
+data/processed/
